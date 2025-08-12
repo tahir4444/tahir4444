@@ -1,6 +1,6 @@
 # Hi, I'm Mohd Tahir 👋
 
-![Profile Image](https://avatars.githubusercontent.com/u/yourgithubid?v=4)  
+![Profile Image](https://avatars.githubusercontent.com/u/3027471?v=4)  
 
 I'm a passionate **Full Stack Developer** and **Technical Architect** with 10+ years experience building scalable web, mobile, and desktop applications using modern technologies.
 
